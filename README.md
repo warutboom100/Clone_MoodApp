@@ -4,7 +4,7 @@
 https://apps.apple.com/us/app/moodie-mood-diary-with-lock/id1640383777
   ``` 
 ##This is daily mood tracker app เป็นแอปตัวช่วยสำหรับบันทึกอารมณ์และความรู้สึกของแต่ละวัน
-- มีฟังก์ชั่นบันทึกข้อมูลไว้ใน local storage
+- มีฟังก์ชั่นบันทึกข้อมูลไว้ใน local storage ทำให้ปิดเปิดแอพแล้ว ข้อมูลความรู้สึกที่บันทึกไว้ไม่ถูกลบ
 - flutter_calendar_carousel
 - State management
 ### Picture of My Application after cloning
